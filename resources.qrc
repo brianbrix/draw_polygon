@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Draw_Polygon" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

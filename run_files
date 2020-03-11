@@ -1,0 +1,4 @@
+#!/bin/sh
+pyuic5 --from-imports --resource-suffix '' Draw_Polygon_dialog_base.ui > Draw_Polygon_dialog_base.py
+echo "..."
+pyrcc5 -o resources.py resources.qrc
